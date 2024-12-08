@@ -36,10 +36,6 @@ class Line:
             possible_answers = possible_answers2
         return self.result in possible_answers
 
-
-
-
-
 if __name__ == "__main__":
     total_part_1 = 0
     total_part_2 = 0
